@@ -1,0 +1,105 @@
+.own-container {
+    background-color: darkorange;
+    padding: 100px 0 100px 0;
+    text-align: center;
+    background-image: linear-gradient(yellow, darkorange);
+}
+
+h1 {
+    color: black;
+    font-size: 9vw;
+    font-weight: bolder;
+}
+
+h2 {
+    color: white;  
+    font-size: 7vw;  
+    font-weight: bold;
+}
+
+.own-button { 
+    color: darkorange;
+    background-color: black; 
+    border: 1px solid black; 
+    font-size: 3rem; 
+    font-weight: bold; 
+    margin-top: 5rem; 
+}
+
+.own-button:hover { 
+    color: black; 
+    background-color: darkorange; 
+}
+
+.own-cards {
+    background-color: #151515;
+    color: white;
+    margin: 1rem !important;
+}
+
+.own-card-button {
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    border: 1px solid black;
+}
+
+.own-card-button:hover {
+    background-color: #151515;
+    color: white;
+    border: 1px solid white;
+}
+
+main {
+    background-color: dodgerblue;
+}
+
+footer {
+    color: white;
+    padding-top: 5rem;
+    background-color: darkorange;
+}
+
+.own-jumbotron {
+    width: 100%;
+    color: #aaa;
+    background-image:  url("../img/ball-ball-pit-balls-681118.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-weight: 100; 
+    padding: 3rem;
+}
+
+.own-address {
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 900;
+}
+
+#email {
+    font-size: 1.4rem;
+}
+
+.contact {
+    font-size: 2.5rem;
+    color: darkorange;
+    font-weight: 800;
+}
+
+span {
+    display: block;
+    text-align: center;
+}
+
+.own-copyright-text {  
+    text-align: center; 
+    color: white; 
+    padding: 30px 0 30px 0; 
+    text-transform: uppercase; 
+}
+    
+.card-deck {
+    margin-left: 0;
+    margin-right: 0;
+}
