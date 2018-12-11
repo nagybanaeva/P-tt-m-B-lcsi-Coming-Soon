@@ -117,3 +117,9 @@ a, a:hover {
     font-weight: bolder;
     text-align: center;
 }
+
+#settings {
+    width: 80%;
+	border: 15px solid orange;
+	margin: 0 auto;
+}
