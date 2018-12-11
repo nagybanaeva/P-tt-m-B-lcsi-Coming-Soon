@@ -123,3 +123,7 @@ a, a:hover {
 	border: 15px solid orange;
 	margin: 0 auto;
 }
+
+.salt {
+    font-size: 1.3rem;
+}
