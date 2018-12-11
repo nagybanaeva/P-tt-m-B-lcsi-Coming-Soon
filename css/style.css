@@ -103,3 +103,17 @@ span {
     margin-left: 0;
     margin-right: 0;
 }
+
+a, a:hover {
+    text-decoration: none; 
+}
+
+.informations {
+    padding: 5rem;
+}
+
+.opening {
+    font-size: 4vw;
+    font-weight: bolder;
+    text-align: center;
+}
