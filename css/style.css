@@ -127,3 +127,16 @@ a, a:hover {
 .salt {
     font-size: 1.3rem;
 }
+
+#galery {
+    color: white;  
+    font-size: 5vw;  
+    font-weight: bold;
+}
+
+.photos {
+    color: white;  
+    font-size: 3vw; 
+    text-align: center;
+    padding: 3rem;
+}
