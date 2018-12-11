@@ -128,7 +128,7 @@ a, a:hover {
     font-size: 1.3rem;
 }
 
-#galery {
+#galery, #time-table {
     color: white;  
     font-size: 5vw;  
     font-weight: bold;
@@ -139,4 +139,8 @@ a, a:hover {
     font-size: 3vw; 
     text-align: center;
     padding: 3rem;
+}
+
+.clock {
+    height: 3rem;
 }
